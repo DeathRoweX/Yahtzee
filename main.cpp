@@ -1,11 +1,3 @@
-/**
-Yahtzee.cpp
-Description:
-Author: William Rowe
-Date: 20150220
-Module 07 - Yahtzee Game
-**/
-
 #include "stdafx.h"
 #include <iostream>
 #include <ctime>		/* time */
@@ -27,7 +19,6 @@ void welcome(void){
 	cout << "=============================================" << endl;
 	cout << "==-----------------------------------------==" << endl;
 	cout << "=|\t         Yahtzee                   |=" << endl;
-	cout << "=|\t     By: William Rowe              |=" << endl;
 	cout << "==-----------------------------------------==" << endl;
 	cout << "=============================================" << endl;
 	system("pause");
